@@ -9,6 +9,8 @@ This game was created as part of the course Development Environments
 
 ## Screen Shot
 ![Register](https://github.com/SISE-Web-Development-Environments/206282477_305069577/blob/master/img/reg.JPG)
+![Game](https://github.com/SISE-Web-Development-Environments/206282477_305069577/blob/master/img/game.JPG)
+
 
 ## Demo
 [PacManGame](https://sise-web-development-environments.github.io/206282477_305069577/)
